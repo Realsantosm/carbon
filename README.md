@@ -125,7 +125,7 @@ Once you've got all of your code into Carbon, you can customize your image by ch
 
 #### Exporting & Sharing
 
-After you've customized your image you can share your snippet in a number of ways
+After you've customized your image you can share your snippet in a number of ways.
 
 ##### Create a saved snippet
 
